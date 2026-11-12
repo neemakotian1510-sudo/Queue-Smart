@@ -22,9 +22,5 @@ QueueSmart is an intelligent canteen management system designed to reduce waitin
 - Artificial Intelligence
 - Text-to-Speech
 
-## Project Status
-
-Currently under development.
-
 ---
 Built for the AI VibeX Hackathon.
